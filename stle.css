@@ -1,0 +1,385 @@
+
+body {
+    overflow-x: hidden;
+}
+section div{
+    border: px solid black;
+    height: 50px;
+    width: 100vw;
+    border-collapse: collapse;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+    background-color: rgba(247 246 244);
+}
+
+.hh{
+    padding-right: 60px;
+    margin-top: 9px;
+}
+.hhg{
+    margin-top: 15px;
+}
+.cop{
+    text-decoration: none;
+    padding-left: 60px;
+    color: black;
+}
+.papa{
+    padding-left: 60px;
+}
+.ck{
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    /* border: 1px solid black; */
+    background-color:rgba(236,232,217) ;
+    position: sticky;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style-type: none;
+    color: black;
+}
+ul {
+    margin-left: 600px;
+    display:flex;
+    gap: 10px;
+    margin-right: 20px;
+    position: absolute;
+    left:-20px;
+    padding-right:20px;
+
+    
+    
+}
+.qua{
+    padding-left: 37px;
+}
+.pp{
+    font-size: larger;
+    padding-left: 37px;
+}
+.p1{
+    font-size: large;
+    padding-left: 37px;
+    position: relative;
+    top: 130px;
+    
+}
+.div2{
+    float: right;
+    position: relative;
+    bottom: 65px;
+}
+.input {
+    width: 35vw;
+    height: 11vh;
+    position: relative;
+    top: 120px;
+    left: 40px;
+}
+.you{
+    background-color:rgba(236,232,217) ;
+    height: 400px;
+
+}
+.popular{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 50px;
+    
+}
+.Product{
+    position: relative;
+    left: 400px;
+}
+
+.container{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-row: 1fr 1fr 1fr;
+    padding: 40px;
+}
+.popular2{ display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 50px;
+    top: 40px;
+
+}
+
+.Product1{
+    position: relative;
+    left: 925px;
+}
+.griditem{
+    border: 1px solid gray ;
+    height: 500px;
+    background-color: white;
+    width: 300px;
+    position: relative;
+    left: 40px;
+   
+
+}
+
+.got:hover{
+    transform: scale(1.1,1.1); 
+    cursor: pointer;
+}
+.start{
+    padding-left: 20px;
+    font-weight: 1000;
+}
+.br{
+    background-color: brown;
+    border: none;
+    height: 50px;
+    width: 200px;
+    color: white;
+    
+
+    
+}
+.money{
+    padding-left: 20px;
+}
+
+
+button{
+    position: relative;
+    left: 20px;
+    border-radius: 5px;
+
+}
+
+#twoside{
+    padding-left: 20px;
+
+}
+.ode{
+    font-size: x-large;
+}
+.jojo
+    {display: flex;
+        justify-content: space-between;
+        position: relative;
+        left: 80px;
+        top: 40px;
+}
+.bio{
+    position: relative;
+    right: 150px;
+}
+.shile{
+    height: 450px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+.ope{
+   height: 450px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+    top: 50px;
+    left: 80px;
+
+    
+
+}
+.ohio{
+    display:flex;
+}
+.ife{position: relative;
+    top: 120px;
+    left: 80px;
+    font-size: 20px;
+
+}
+.omo{
+    position: relative;
+    top: 13px;
+}
+.ori{
+    border: 1px solid black;
+    width: 100vw;
+    height: 400px;
+    position: relative;
+top: 210px;
+background-color: rgba(237,246,257);
+border:none;
+
+
+}
+.cus{
+    padding-left: 75px;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+#aja{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    left: 70px;
+    top: 30px;
+}
+
+.omo3{
+    border: 1px solid black;
+    height: 160px;
+    width: 25vw;
+    background-color: white;
+    border: none;
+    
+}
+.omo1{
+    border: 1px solid black;
+    height: 160px;
+    width: 25vw;
+    background-color: white;
+    border: none;
+}
+.omo2{
+    border: 1px solid black;
+    height: 160px;
+    width:25vw;
+    background-color: white;
+    border: none;
+}
+.para{
+    padding-left: 40px;
+    position: relative;
+    bottom: 45px;
+}
+.para1{
+    padding-right: 30px;
+    padding-left: 30px;
+    position: relative;
+    bottom: 45px;
+}
+.aref{
+    color: blue;
+}
+.bom{
+    position: relative;
+    top: 80px;
+    left: 70px;
+    font-size: 30px;
+
+}
+.gin{
+    border: 1px solid black;
+    width: 100vw;
+    height: 400px;
+position: relative;
+top: 180px;
+border: none;
+}
+
+.bois{
+    display: flex;
+    gap: 250px;
+}
+
+
+#omo1{
+    /* height: 100px; */
+    /* width: 20vw; */
+    /* border: 1px solid red; */
+    position: relative;
+    left: 80px;
+
+}
+
+#omo2{
+    /* height: 100px; */
+    /* width: 20vw; */
+    /* border: 1px solid red; */
+    position: relative;
+    left: 80px;
+}
+
+#omo3{
+    /* height: 100px; */
+    /* width: 20vw; */
+    /* border: 1px solid red; */
+    position: relative;
+    left: 80px;
+}
+#mara{
+    position: relative;
+    left: 70px;
+    bottom: 90px;
+    /* padding-left: 30px; */
+    /* padding-right: 30px; */
+}
+#mara1{
+    color:rgb(51, 50, 50);
+    position: relative;
+    left: 70px;
+    bottom: 90px;
+}
+.never{
+    font-size: 30px;
+    color: rgba(80,102,131);
+}
+.gwa{
+    display: flex;
+    gap: 120px;
+}
+.bob{
+    border: 1px solid black;
+    height: 300px;
+    width: 100vw;
+    padding-left: 90px;
+    background-color: rgba(247 246 244);
+    border: none;
+}
+
+.paa{
+    position: relative;
+    bottom: 200px;
+    left: 85px;
+
+}
+.paa1{
+    position: relative;
+    bottom: 200px;
+    left: 85px;
+    text-decoration: underline;}
+
+    .pupu2{
+        border: 1px solid black;
+        height: 300px;
+        width: 100vw;
+        position: relative;
+        bottom: 105px;
+        left: 10px;
+        background-color: rgb(56, 74, 98);
+        
+    }
+    .pupu{
+      /* border: 1px solid black; */
+        /* height: 300px; */
+        /* width: 100vw; */
+        position: relative;
+        left: 120px;
+        display: flex;
+        gap: 170px;
+        background-color:;
+    }
+
+    
+
+
